@@ -41,7 +41,7 @@ function celsiusToFahrenheit() {
 
 function celsiusToFahrenheit() {
   // Your code goes here
-}
+} 
 
 /*
 5. 🎖 Write a function pow(n, x) that returns x in power n.
