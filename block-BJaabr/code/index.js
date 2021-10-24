@@ -22,7 +22,7 @@ let convertToString = (n) => String(n);
 // - Write an Arrow Function with curly brackets
 let convertToString = (n) => {
   return String(n);
-};
+}; 
 
 // - Execute the function
 convertToString(21);
