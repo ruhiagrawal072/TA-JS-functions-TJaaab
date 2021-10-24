@@ -31,7 +31,7 @@ function isInRange() {
 // - Execute the function with required parameter
 
 /* 2. calculateBMI
-
+ 
 
 Take two arguments weight and height and return `Underweight`, `Normal` etc based on data.
 
