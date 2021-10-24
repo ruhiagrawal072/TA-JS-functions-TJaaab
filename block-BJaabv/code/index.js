@@ -26,7 +26,7 @@ function calculateMoviesToWatch() {
 /*
 3. 🎖Create a function called celsiusToFahrenheit:
   * [ ] Accepts celsius temperature as argument.
-  * [ ] Convert it to fahrenheit and return "NN°F is NN°C"
+  * [ ] Convert it to fahrenheit and return "NN°F is NN°C" 
 */
 
 function celsiusToFahrenheit() {
