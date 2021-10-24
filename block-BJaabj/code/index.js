@@ -17,7 +17,7 @@
   - Prompts a message saying `Enter the first number` and store the value into variable named `firstNum`
   - Prompts a message saying `Enter the second` and store the value into variable named `secondNum`
   - Add the value of firstNum and secondNum and store it in another variable named `sum`.
-  - Alert `sum`
+  - Alert `sum` 
 */
 
 /*
