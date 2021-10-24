@@ -3,8 +3,7 @@
 /* 1. minToSec
 
 Write a function named minToSec that takes an integer minutes and converts it to seconds.
-
-
+ 
 minToSec(50) ➞ 3000
 minToSec(13) ➞ 780
 minToSec(2) ➞ 120
