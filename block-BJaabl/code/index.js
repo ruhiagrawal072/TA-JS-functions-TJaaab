@@ -5,7 +5,7 @@
 /*
 2. Create a function named `getFullName` that accepts two parameter `firstName` and `lastName` and returns
 fullName.
-
+ 
 Example:
   getFullName("John", "Snow"); // "John Snow"
   getFullName("Nelson", "Mandela"); // "Nelson Mandela"
